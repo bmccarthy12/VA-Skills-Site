@@ -1,0 +1,139 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+/* Main Container */
+.container {
+    max-width: 90%;
+    width: 1000px; /* Set a fixed width */
+    margin: 20px auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Title Styling */
+.title {
+    text-align: center;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+/* Table Wrapper */
+.table-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    overflow-x: auto;
+}
+
+/* Table Styles */
+table {
+    width: 900px; /* Fixed width */
+    border-collapse: collapse;
+    background-color: #ffffff;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    table-layout: fixed;
+}
+
+/* Define Equal Column Widths */
+colgroup col {
+    width: 12%;
+}
+
+/* Header Styling */
+th {
+    background-color: #004085;
+    color: white;
+    padding: 12px;
+    text-align: center;
+    font-size: 16px;
+}
+
+/* Row Styling */
+td {
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+}
+
+/* Alternating Row Colors */
+tr:nth-child(even) {
+    background-color: #e9ecef;
+}
+
+tr:nth-child(odd) {
+    background-color: #f8f9fa;
+}
+
+/* Highlighting Qualified and Top 56 Teams */
+.green {
+    background-color: #90EE90 !important;
+}
+
+.yellow {
+    background-color: #FFFF99 !important;
+}
+
+/* Borders Between Rows */
+tr {
+    border-bottom: 1px solid #ddd;
+}
+
+/* Styling for the highlight information text */
+.highlight-info {
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    color: #333;
+}
+
+/* Inline highlight colors for explanation text */
+.green-highlight {
+    background-color: #90EE90;
+    padding: 3px 8px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.yellow-highlight {
+    background-color: #FFFF99;
+    padding: 3px 8px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.disclaimer {
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    color: #333;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .container {
+        max-width: 95%;
+        padding: 10px;
+    }
+
+    table {
+        width: 100%; /* Make table responsive */
+    }
+
+    th, td {
+        padding: 8px;
+        font-size: 12px;
+    }
+}

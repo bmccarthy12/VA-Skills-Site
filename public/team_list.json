@@ -1,0 +1,697 @@
+[
+  {
+    "team_id": 121849,
+    "team_number": "62961X",
+    "team_name": "Matrix"
+  },
+  {
+    "team_id": 46465,
+    "team_number": "6603A",
+    "team_name": "Atom's Family"
+  },
+  {
+    "team_id": 46468,
+    "team_number": "6603B",
+    "team_name": "Blackout"
+  },
+  {
+    "team_id": 46471,
+    "team_number": "6603C",
+    "team_name": "Klorox!"
+  },
+  {
+    "team_id": 98485,
+    "team_number": "6603T",
+    "team_name": "T-Time"
+  },
+  {
+    "team_id": 154568,
+    "team_number": "2072X",
+    "team_name": "Cloudelicious"
+  },
+  {
+    "team_id": 169590,
+    "team_number": "61111A",
+    "team_name": "Saxon Robotics"
+  },
+  {
+    "team_id": 169669,
+    "team_number": "54045Z",
+    "team_name": "SpooderBots"
+  },
+  {
+    "team_id": 110896,
+    "team_number": "80708Y",
+    "team_name": "Exobits"
+  },
+  {
+    "team_id": 169750,
+    "team_number": "2072C",
+    "team_name": "Tragic Throw"
+  },
+  {
+    "team_id": 169751,
+    "team_number": "2072Y",
+    "team_name": "Up in the Clouds"
+  },
+  {
+    "team_id": 133474,
+    "team_number": "23692A",
+    "team_name": "Grafton Gears"
+  },
+  {
+    "team_id": 169776,
+    "team_number": "2072Z",
+    "team_name": "dux."
+  },
+  {
+    "team_id": 78132,
+    "team_number": "17230C",
+    "team_name": "Millennium Falcons"
+  },
+  {
+    "team_id": 78134,
+    "team_number": "17230H",
+    "team_name": "Millennium Falcons"
+  },
+  {
+    "team_id": 79175,
+    "team_number": "17230R",
+    "team_name": "Millennium Falcons"
+  },
+  {
+    "team_id": 107040,
+    "team_number": "99909A",
+    "team_name": "Rising Phoenix"
+  },
+  {
+    "team_id": 138841,
+    "team_number": "50878X",
+    "team_name": "Geometric Mangos"
+  },
+  {
+    "team_id": 109693,
+    "team_number": "2145Z",
+    "team_name": "Pink Shinee Unicorns"
+  },
+  {
+    "team_id": 102975,
+    "team_number": "99157B",
+    "team_name": "IronMechs 2.0"
+  },
+  {
+    "team_id": 154029,
+    "team_number": "50805H",
+    "team_name": "The Blue Whales"
+  },
+  {
+    "team_id": 170054,
+    "team_number": "50805A",
+    "team_name": "Satvik and friends"
+  },
+  {
+    "team_id": 170204,
+    "team_number": "2072U",
+    "team_name": "Ubernimbus"
+  },
+  {
+    "team_id": 170205,
+    "team_number": "2072A",
+    "team_name": "Ares"
+  },
+  {
+    "team_id": 141212,
+    "team_number": "80208K",
+    "team_name": "Ka-Chow"
+  },
+  {
+    "team_id": 157577,
+    "team_number": "2509A",
+    "team_name": "Blue Wave Elite"
+  },
+  {
+    "team_id": 111660,
+    "team_number": "20164J",
+    "team_name": "Jambalaya"
+  },
+  {
+    "team_id": 131366,
+    "team_number": "20164M",
+    "team_name": "Megalodons"
+  },
+  {
+    "team_id": 74175,
+    "team_number": "20164T",
+    "team_name": "Tidal Wave"
+  },
+  {
+    "team_id": 101992,
+    "team_number": "20164U",
+    "team_name": "Unity"
+  },
+  {
+    "team_id": 161029,
+    "team_number": "20164V",
+    "team_name": "Venom"
+  },
+  {
+    "team_id": 74174,
+    "team_number": "20164W",
+    "team_name": "Great Whites"
+  },
+  {
+    "team_id": 74173,
+    "team_number": "20164X",
+    "team_name": "SharX"
+  },
+  {
+    "team_id": 74172,
+    "team_number": "20164Z",
+    "team_name": "Zebra Shark"
+  },
+  {
+    "team_id": 170287,
+    "team_number": "20164B",
+    "team_name": "Banana Sharks"
+  },
+  {
+    "team_id": 26932,
+    "team_number": "4303A",
+    "team_name": "Incognito"
+  },
+  {
+    "team_id": 28438,
+    "team_number": "4303B",
+    "team_name": "Boundless"
+  },
+  {
+    "team_id": 28441,
+    "team_number": "4303C",
+    "team_name": "¡Cosmix!"
+  },
+  {
+    "team_id": 40945,
+    "team_number": "4303D",
+    "team_name": "Bunnies"
+  },
+  {
+    "team_id": 64868,
+    "team_number": "4303X",
+    "team_name": "¿Jinxd?"
+  },
+  {
+    "team_id": 140967,
+    "team_number": "4303Z",
+    "team_name": "Zenith"
+  },
+  {
+    "team_id": 4086,
+    "team_number": "12A",
+    "team_name": "Absolute Zero"
+  },
+  {
+    "team_id": 4096,
+    "team_number": "12C",
+    "team_name": "Caffeine"
+  },
+  {
+    "team_id": 4101,
+    "team_number": "12D",
+    "team_name": "Dinomite"
+  },
+  {
+    "team_id": 4106,
+    "team_number": "12E",
+    "team_name": "Error By Design"
+  },
+  {
+    "team_id": 4116,
+    "team_number": "12G",
+    "team_name": "Puzzled"
+  },
+  {
+    "team_id": 26686,
+    "team_number": "12Y",
+    "team_name": "Yuun"
+  },
+  {
+    "team_id": 26689,
+    "team_number": "12Z",
+    "team_name": "Zap"
+  },
+  {
+    "team_id": 139683,
+    "team_number": "46V",
+    "team_name": "Venom"
+  },
+  {
+    "team_id": 172076,
+    "team_number": "47629J",
+    "team_name": "C-Forge Eagles"
+  },
+  {
+    "team_id": 172727,
+    "team_number": "70220A",
+    "team_name": "Robocop"
+  },
+  {
+    "team_id": 172967,
+    "team_number": "23301A",
+    "team_name": "Cobalt Lions"
+  },
+  {
+    "team_id": 172968,
+    "team_number": "23301B",
+    "team_name": "Cobalt Lions"
+  },
+  {
+    "team_id": 173024,
+    "team_number": "52427K",
+    "team_name": "Annihilators"
+  },
+  {
+    "team_id": 136488,
+    "team_number": "71999A",
+    "team_name": "The Patilies"
+  },
+  {
+    "team_id": 17032,
+    "team_number": "4061A",
+    "team_name": "Falcons"
+  },
+  {
+    "team_id": 17035,
+    "team_number": "4061B",
+    "team_name": "Name"
+  },
+  {
+    "team_id": 83827,
+    "team_number": "4061E",
+    "team_name": "Runic"
+  },
+  {
+    "team_id": 3441,
+    "team_number": "154A",
+    "team_name": "Apollo"
+  },
+  {
+    "team_id": 25570,
+    "team_number": "154B",
+    "team_name": "Code and pray"
+  },
+  {
+    "team_id": 27013,
+    "team_number": "154C",
+    "team_name": "GT 3"
+  },
+  {
+    "team_id": 35863,
+    "team_number": "154D",
+    "team_name": "Dark Infernos"
+  },
+  {
+    "team_id": 14704,
+    "team_number": "1575B",
+    "team_name": "Business"
+  },
+  {
+    "team_id": 157067,
+    "team_number": "1575K",
+    "team_name": "Kronos"
+  },
+  {
+    "team_id": 81691,
+    "team_number": "1575M",
+    "team_name": "Maximus"
+  },
+  {
+    "team_id": 49878,
+    "team_number": "1575W",
+    "team_name": "Wanted"
+  },
+  {
+    "team_id": 157068,
+    "team_number": "1575T",
+    "team_name": "Timeless"
+  },
+  {
+    "team_id": 130499,
+    "team_number": "1575Y",
+    "team_name": "Yo-Yo"
+  },
+  {
+    "team_id": 56191,
+    "team_number": "1575X",
+    "team_name": "Xcaliber"
+  },
+  {
+    "team_id": 39544,
+    "team_number": "46B",
+    "team_name": "Code Red"
+  },
+  {
+    "team_id": 173800,
+    "team_number": "46N",
+    "team_name": "Nitro"
+  },
+  {
+    "team_id": 50999,
+    "team_number": "6479A",
+    "team_name": "Engi-Nearing Our Limits"
+  },
+  {
+    "team_id": 36862,
+    "team_number": "46A",
+    "team_name": "Apollo"
+  },
+  {
+    "team_id": 155640,
+    "team_number": "2872X",
+    "team_name": "Cryptix"
+  },
+  {
+    "team_id": 158054,
+    "team_number": "1895A",
+    "team_name": "Osbourn Robotics"
+  },
+  {
+    "team_id": 158055,
+    "team_number": "1895B",
+    "team_name": "Osbourn Robotics"
+  },
+  {
+    "team_id": 15001,
+    "team_number": "4343C",
+    "team_name": "Σ"
+  },
+  {
+    "team_id": 14998,
+    "team_number": "4343B",
+    "team_name": "Danamals"
+  },
+  {
+    "team_id": 51000,
+    "team_number": "6479B",
+    "team_name": "Bot-To-Go"
+  },
+  {
+    "team_id": 158051,
+    "team_number": "6479C",
+    "team_name": "PantherBots"
+  },
+  {
+    "team_id": 175524,
+    "team_number": "6479D",
+    "team_name": "Black n Blue"
+  },
+  {
+    "team_id": 53190,
+    "team_number": "9883A",
+    "team_name": "Millennium Falcons"
+  },
+  {
+    "team_id": 53222,
+    "team_number": "9883B",
+    "team_name": "The Wrath of the Falcons"
+  },
+  {
+    "team_id": 43639,
+    "team_number": "7886B",
+    "team_name": "Hylton High School"
+  },
+  {
+    "team_id": 176155,
+    "team_number": "7886A",
+    "team_name": "Hylton High School"
+  },
+  {
+    "team_id": 46474,
+    "team_number": "6603D",
+    "team_name": "Dideon"
+  },
+  {
+    "team_id": 98329,
+    "team_number": "6603H",
+    "team_name": "Hungry Hungry Hippos"
+  },
+  {
+    "team_id": 135883,
+    "team_number": "97265A",
+    "team_name": "Glen Allen JagBots"
+  },
+  {
+    "team_id": 131943,
+    "team_number": "13150A",
+    "team_name": "13150A"
+  },
+  {
+    "team_id": 131952,
+    "team_number": "13150B",
+    "team_name": "Halo"
+  },
+  {
+    "team_id": 138962,
+    "team_number": "13150C",
+    "team_name": "13150C"
+  },
+  {
+    "team_id": 176437,
+    "team_number": "60023X",
+    "team_name": "The Innovators"
+  },
+  {
+    "team_id": 176442,
+    "team_number": "60023Y",
+    "team_name": "The Innovators"
+  },
+  {
+    "team_id": 107622,
+    "team_number": "8113C",
+    "team_name": "Rogue Squadron"
+  },
+  {
+    "team_id": 176492,
+    "team_number": "8113D",
+    "team_name": "Post 1882 HS1"
+  },
+  {
+    "team_id": 4091,
+    "team_number": "12B",
+    "team_name": "Blizzard"
+  },
+  {
+    "team_id": 4111,
+    "team_number": "12F",
+    "team_name": "Finneas & Ferb"
+  },
+  {
+    "team_id": 26668,
+    "team_number": "12S",
+    "team_name": "Potomac School"
+  },
+  {
+    "team_id": 26683,
+    "team_number": "12X",
+    "team_name": "EclipX"
+  },
+  {
+    "team_id": 54326,
+    "team_number": "9121A",
+    "team_name": "DAYTEC Robotics"
+  },
+  {
+    "team_id": 54327,
+    "team_number": "9121B",
+    "team_name": "DAYTEC Robotics"
+  },
+  {
+    "team_id": 160910,
+    "team_number": "13150D",
+    "team_name": "Delta V"
+  },
+  {
+    "team_id": 160911,
+    "team_number": "13150E",
+    "team_name": "Lockdown"
+  },
+  {
+    "team_id": 67311,
+    "team_number": "97987A",
+    "team_name": "Heritage HS"
+  },
+  {
+    "team_id": 140834,
+    "team_number": "55134A",
+    "team_name": "Tempest in a Bot"
+  },
+  {
+    "team_id": 63681,
+    "team_number": "1575V",
+    "team_name": "Venom"
+  },
+  {
+    "team_id": 168065,
+    "team_number": "27638A",
+    "team_name": "KRANSY Robotics"
+  },
+  {
+    "team_id": 177857,
+    "team_number": "27638B",
+    "team_name": "Trademark USA"
+  },
+  {
+    "team_id": 146827,
+    "team_number": "34495A",
+    "team_name": "."
+  },
+  {
+    "team_id": 178023,
+    "team_number": "22192X",
+    "team_name": "Vikings"
+  },
+  {
+    "team_id": 178024,
+    "team_number": "22192Z",
+    "team_name": "Vikings"
+  },
+  {
+    "team_id": 146829,
+    "team_number": "34495B",
+    "team_name": "Tangential Tourists"
+  },
+  {
+    "team_id": 178463,
+    "team_number": "20102A",
+    "team_name": "Overdrive"
+  },
+  {
+    "team_id": 76817,
+    "team_number": "63975A",
+    "team_name": "BlueHawks"
+  },
+  {
+    "team_id": 76818,
+    "team_number": "63975B",
+    "team_name": "Kuro"
+  },
+  {
+    "team_id": 117062,
+    "team_number": "63975D",
+    "team_name": "Paragon"
+  },
+  {
+    "team_id": 43747,
+    "team_number": "7122A",
+    "team_name": "Culpeper Robotics"
+  },
+  {
+    "team_id": 66423,
+    "team_number": "18391A",
+    "team_name": "Dream Team"
+  },
+  {
+    "team_id": 119695,
+    "team_number": "42075A",
+    "team_name": "Wired Up"
+  },
+  {
+    "team_id": 119696,
+    "team_number": "42075B",
+    "team_name": "Vex Bolts"
+  },
+  {
+    "team_id": 119697,
+    "team_number": "42075C",
+    "team_name": "El Primo"
+  },
+  {
+    "team_id": 119698,
+    "team_number": "42075D",
+    "team_name": "Saquon"
+  },
+  {
+    "team_id": 4166,
+    "team_number": "2068A",
+    "team_name": "Metal Jackets"
+  },
+  {
+    "team_id": 88963,
+    "team_number": "2068B",
+    "team_name": "Metal Jackets - Tonka"
+  },
+  {
+    "team_id": 179542,
+    "team_number": "23430Z",
+    "team_name": "OSHA Violators"
+  },
+  {
+    "team_id": 5666,
+    "team_number": "861A",
+    "team_name": "Mountain Goats"
+  },
+  {
+    "team_id": 179867,
+    "team_number": "1895C",
+    "team_name": "Osbourn Robotics"
+  },
+  {
+    "team_id": 180039,
+    "team_number": "22101D",
+    "team_name": "D.S. Hydrox"
+  },
+  {
+    "team_id": 161426,
+    "team_number": "14294A",
+    "team_name": "Robo Escargot"
+  },
+  {
+    "team_id": 115412,
+    "team_number": "37458A",
+    "team_name": "Gen Bots"
+  },
+  {
+    "team_id": 164326,
+    "team_number": "55134B",
+    "team_name": "RoboTempest"
+  },
+  {
+    "team_id": 181238,
+    "team_number": "6975J",
+    "team_name": "Spotsy Bots"
+  },
+  {
+    "team_id": 156054,
+    "team_number": "2430X",
+    "team_name": "Chum Bucket"
+  },
+  {
+    "team_id": 181972,
+    "team_number": "96639B",
+    "team_name": "Ominous Potatoes"
+  },
+  {
+    "team_id": 182377,
+    "team_number": "47372A",
+    "team_name": "Tech Prep Titans"
+  },
+  {
+    "team_id": 48711,
+    "team_number": "6975X",
+    "team_name": "Spotsy Bots"
+  },
+  {
+    "team_id": 78014,
+    "team_number": "16949A",
+    "team_name": "Knights"
+  },
+  {
+    "team_id": 76876,
+    "team_number": "9883C",
+    "team_name": "Star Fighter"
+  },
+  {
+    "team_id": 161908,
+    "team_number": "61105A",
+    "team_name": "Mustang Robotics"
+  }
+]

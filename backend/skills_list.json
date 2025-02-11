@@ -1,0 +1,610 @@
+[
+  {
+    "team_number": 121849,
+    "team_name": "62961X",
+    "event_name": "VT CRO-Down • High Stakes • V5RC • High/Middle School",
+    "programming_score": 39,
+    "driver_score": 54,
+    "total_score": 93
+  },
+  {
+    "team_number": 46465,
+    "team_name": "6603A",
+    "event_name": "Roboticon 2025 (PWCS Invitational - HS Only)",
+    "programming_score": 18,
+    "driver_score": 37,
+    "total_score": 55
+  },
+  {
+    "team_number": 46468,
+    "team_name": "6603B",
+    "event_name": "Roboticon 2025 (PWCS Invitational - HS Only)",
+    "programming_score": 0,
+    "driver_score": 20,
+    "total_score": 20
+  },
+  {
+    "team_number": 46471,
+    "team_name": "6603C",
+    "event_name": "Roboticon 2025 (PWCS Invitational - HS Only)",
+    "programming_score": 0,
+    "driver_score": 23,
+    "total_score": 23
+  },
+  {
+    "team_number": 98485,
+    "team_name": "6603T",
+    "event_name": "Roboticon 2025 (PWCS Invitational - HS Only)",
+    "programming_score": 0,
+    "driver_score": 20,
+    "total_score": 20
+  },
+  {
+    "team_number": 154568,
+    "team_name": "2072X",
+    "event_name": "LAUNCH VEX V5 Robotics Competition Signature Event",
+    "programming_score": 23,
+    "driver_score": 46,
+    "total_score": 69
+  },
+  {
+    "team_number": 169669,
+    "team_name": "54045Z",
+    "event_name": "VT CRO-Down • High Stakes • V5RC • High/Middle School",
+    "programming_score": 14,
+    "driver_score": 37,
+    "total_score": 51
+  },
+  {
+    "team_number": 110896,
+    "team_name": "80708Y",
+    "event_name": "Kalahari Classic VEX V5 Robotics Competition Signature Event - HS",
+    "programming_score": 47,
+    "driver_score": 56,
+    "total_score": 103
+  },
+  {
+    "team_number": 169750,
+    "team_name": "2072C",
+    "event_name": "Gateway to the West VEX V5 Robotics Competition Signature Event",
+    "programming_score": 25,
+    "driver_score": 50,
+    "total_score": 75
+  },
+  {
+    "team_number": 107040,
+    "team_name": "99909A",
+    "event_name": "All Saints Skills Tournament (10:00 AM - Noon)",
+    "programming_score": 23,
+    "driver_score": 43,
+    "total_score": 66
+  },
+  {
+    "team_number": 138841,
+    "team_name": "50878X",
+    "event_name": "VT CRO-Down • High Stakes • V5RC • High/Middle School",
+    "programming_score": 28,
+    "driver_score": 36,
+    "total_score": 64
+  },
+  {
+    "team_number": 109693,
+    "team_name": "2145Z",
+    "event_name": "Battle of the Bridge V5RC - High School Tournament",
+    "programming_score": 47,
+    "driver_score": 56,
+    "total_score": 103
+  },
+  {
+    "team_number": 102975,
+    "team_name": "99157B",
+    "event_name": "Sugar Rush VEX V5 Robotics Competition Signature Event",
+    "programming_score": 17,
+    "driver_score": 44,
+    "total_score": 61
+  },
+  {
+    "team_number": 154029,
+    "team_name": "50805H",
+    "event_name": "All Saints V5RC Tournament (MS/HS) - 16 Nov",
+    "programming_score": 23,
+    "driver_score": 46,
+    "total_score": 69
+  },
+  {
+    "team_number": 170054,
+    "team_name": "50805A",
+    "event_name": "The Highlander Summit VEX V5 Robotics Competition Signature Event",
+    "programming_score": 0,
+    "driver_score": 24,
+    "total_score": 24
+  },
+  {
+    "team_number": 170204,
+    "team_name": "2072U",
+    "event_name": "Enginotic 6 V5RC Blended October Qualifier",
+    "programming_score": 0,
+    "driver_score": 30,
+    "total_score": 30
+  },
+  {
+    "team_number": 170205,
+    "team_name": "2072A",
+    "event_name": "Gateway to the West VEX V5 Robotics Competition Signature Event",
+    "programming_score": 42,
+    "driver_score": 50,
+    "total_score": 92
+  },
+  {
+    "team_number": 141212,
+    "team_name": "80208K",
+    "event_name": "All Saints Skills Tournament (1:30 PM - 3:30 PM)",
+    "programming_score": 34,
+    "driver_score": 44,
+    "total_score": 78
+  },
+  {
+    "team_number": 157577,
+    "team_name": "2509A",
+    "event_name": "The Highlander Summit VEX V5 Robotics Competition Signature Event",
+    "programming_score": 31,
+    "driver_score": 50,
+    "total_score": 81
+  },
+  {
+    "team_number": 111660,
+    "team_name": "20164J",
+    "event_name": "All Saints V5RC Tournament (MS/HS) - 16 Nov",
+    "programming_score": 0,
+    "driver_score": 23,
+    "total_score": 23
+  },
+  {
+    "team_number": 131366,
+    "team_name": "20164M",
+    "event_name": "Potomac School V5RC Winter Classic (High School Only)",
+    "programming_score": 0,
+    "driver_score": 28,
+    "total_score": 28
+  },
+  {
+    "team_number": 74175,
+    "team_name": "20164T",
+    "event_name": "Roboticon 2025 (PWCS Invitational - HS Only)",
+    "programming_score": 18,
+    "driver_score": 44,
+    "total_score": 62
+  },
+  {
+    "team_number": 161029,
+    "team_name": "20164V",
+    "event_name": "Potomac School V5RC Winter Classic (High School Only)",
+    "programming_score": 0,
+    "driver_score": 10,
+    "total_score": 10
+  },
+  {
+    "team_number": 74174,
+    "team_name": "20164W",
+    "event_name": "All Saints V5RC Tournament (MS/HS) - 16 Nov",
+    "programming_score": 14,
+    "driver_score": 10,
+    "total_score": 24
+  },
+  {
+    "team_number": 74173,
+    "team_name": "20164X",
+    "event_name": "Roboticon 2025 (PWCS Invitational - HS Only)",
+    "programming_score": 17,
+    "driver_score": 21,
+    "total_score": 38
+  },
+  {
+    "team_number": 74172,
+    "team_name": "20164Z",
+    "event_name": "Roboticon 2025 (PWCS Invitational - HS Only)",
+    "programming_score": 0,
+    "driver_score": 23,
+    "total_score": 23
+  },
+  {
+    "team_number": 170287,
+    "team_name": "20164B",
+    "event_name": "Roboticon 2025 (PWCS Invitational - HS Only)",
+    "programming_score": 10,
+    "driver_score": 42,
+    "total_score": 52
+  },
+  {
+    "team_number": 28438,
+    "team_name": "4303B",
+    "event_name": "VT CRO-Down • High Stakes • V5RC • High/Middle School",
+    "programming_score": 3,
+    "driver_score": 35,
+    "total_score": 38
+  },
+  {
+    "team_number": 28441,
+    "team_name": "4303C",
+    "event_name": "Gateway to the West VEX V5 Robotics Competition Signature Event",
+    "programming_score": 0,
+    "driver_score": 23,
+    "total_score": 23
+  },
+  {
+    "team_number": 40945,
+    "team_name": "4303D",
+    "event_name": "VT CRO-Down • High Stakes • V5RC • High/Middle School",
+    "programming_score": 0,
+    "driver_score": 32,
+    "total_score": 32
+  },
+  {
+    "team_number": 64868,
+    "team_name": "4303X",
+    "event_name": "Gateway to the West VEX V5 Robotics Competition Signature Event",
+    "programming_score": 0,
+    "driver_score": 21,
+    "total_score": 21
+  },
+  {
+    "team_number": 4086,
+    "team_name": "12A",
+    "event_name": "Potomac School V5RC Winter Classic (High School Only)",
+    "programming_score": 15,
+    "driver_score": 38,
+    "total_score": 53
+  },
+  {
+    "team_number": 4096,
+    "team_name": "12C",
+    "event_name": "WAVE at WPI VEX V5 Robotics Competition Signature Event",
+    "programming_score": 35,
+    "driver_score": 46,
+    "total_score": 81
+  },
+  {
+    "team_number": 4101,
+    "team_name": "12D",
+    "event_name": "Gateway to the West VEX V5 Robotics Competition Signature Event",
+    "programming_score": 24,
+    "driver_score": 48,
+    "total_score": 72
+  },
+  {
+    "team_number": 26686,
+    "team_name": "12Y",
+    "event_name": "Gateway to the West VEX V5 Robotics Competition Signature Event",
+    "programming_score": 11,
+    "driver_score": 39,
+    "total_score": 50
+  },
+  {
+    "team_number": 26689,
+    "team_name": "12Z",
+    "event_name": "Gateway to the West VEX V5 Robotics Competition Signature Event",
+    "programming_score": 29,
+    "driver_score": 37,
+    "total_score": 66
+  },
+  {
+    "team_number": 139683,
+    "team_name": "46V",
+    "event_name": "VT CRO-Down • High Stakes • V5RC • High/Middle School",
+    "programming_score": 24,
+    "driver_score": 36,
+    "total_score": 60
+  },
+  {
+    "team_number": 172727,
+    "team_name": "70220A",
+    "event_name": "VT CRO-Down • High Stakes • V5RC • High/Middle School",
+    "programming_score": 25,
+    "driver_score": 33,
+    "total_score": 58
+  },
+  {
+    "team_number": 172967,
+    "team_name": "23301A",
+    "event_name": "Roboticon 2025 (PWCS Invitational - HS Only)",
+    "programming_score": 0,
+    "driver_score": 20,
+    "total_score": 20
+  },
+  {
+    "team_number": 173024,
+    "team_name": "52427K",
+    "event_name": "VT CRO-Down • High Stakes • V5RC • High/Middle School",
+    "programming_score": 8,
+    "driver_score": 30,
+    "total_score": 38
+  },
+  {
+    "team_number": 136488,
+    "team_name": "71999A",
+    "event_name": "Bruin in the Den V5RC",
+    "programming_score": 15,
+    "driver_score": 47,
+    "total_score": 62
+  },
+  {
+    "team_number": 3441,
+    "team_name": "154A",
+    "event_name": "V5RC Seton Christmas Tournament (MS/HS)",
+    "programming_score": 0,
+    "driver_score": 19,
+    "total_score": 19
+  },
+  {
+    "team_number": 25570,
+    "team_name": "154B",
+    "event_name": "All Saints Skills Tournament (10:00 AM - Noon)",
+    "programming_score": 0,
+    "driver_score": 10,
+    "total_score": 10
+  },
+  {
+    "team_number": 27013,
+    "team_name": "154C",
+    "event_name": "VT CRO-Down • High Stakes • V5RC • High/Middle School",
+    "programming_score": 0,
+    "driver_score": 12,
+    "total_score": 12
+  },
+  {
+    "team_number": 35863,
+    "team_name": "154D",
+    "event_name": "All Saints Skills Tournament (10:00 AM - Noon)",
+    "programming_score": 23,
+    "driver_score": 49,
+    "total_score": 72
+  },
+  {
+    "team_number": 14704,
+    "team_name": "1575B",
+    "event_name": "Sugar Rush VEX V5 Robotics Competition Signature Event",
+    "programming_score": 13,
+    "driver_score": 27,
+    "total_score": 40
+  },
+  {
+    "team_number": 157067,
+    "team_name": "1575K",
+    "event_name": "Sugar Rush VEX V5 Robotics Competition Signature Event",
+    "programming_score": 17,
+    "driver_score": 40,
+    "total_score": 57
+  },
+  {
+    "team_number": 81691,
+    "team_name": "1575M",
+    "event_name": "Sugar Rush VEX V5 Robotics Competition Signature Event",
+    "programming_score": 12,
+    "driver_score": 32,
+    "total_score": 44
+  },
+  {
+    "team_number": 49878,
+    "team_name": "1575W",
+    "event_name": "Roboticon 2025 (PWCS Invitational - HS Only)",
+    "programming_score": 26,
+    "driver_score": 52,
+    "total_score": 78
+  },
+  {
+    "team_number": 157068,
+    "team_name": "1575T",
+    "event_name": "All Saints V5RC Tournament (MS/HS) - 16 Nov",
+    "programming_score": 0,
+    "driver_score": 23,
+    "total_score": 23
+  },
+  {
+    "team_number": 130499,
+    "team_name": "1575Y",
+    "event_name": "Roboticon 2025 (PWCS Invitational - HS Only)",
+    "programming_score": 5,
+    "driver_score": 30,
+    "total_score": 35
+  },
+  {
+    "team_number": 56191,
+    "team_name": "1575X",
+    "event_name": "Roboticon 2025 (PWCS Invitational - HS Only)",
+    "programming_score": 26,
+    "driver_score": 41,
+    "total_score": 67
+  },
+  {
+    "team_number": 39544,
+    "team_name": "46B",
+    "event_name": "Gateway to the West VEX V5 Robotics Competition Signature Event",
+    "programming_score": 40,
+    "driver_score": 46,
+    "total_score": 86
+  },
+  {
+    "team_number": 173800,
+    "team_name": "46N",
+    "event_name": "Potomac School V5RC Winter Classic (High School Only)",
+    "programming_score": 18,
+    "driver_score": 34,
+    "total_score": 52
+  },
+  {
+    "team_number": 50999,
+    "team_name": "6479A",
+    "event_name": "Battle of the Bridge V5RC - High School Tournament",
+    "programming_score": 0,
+    "driver_score": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 155640,
+    "team_name": "2872X",
+    "event_name": "01Feb V5RC High Stakes Tournament at Huguenot High  (MS/HS)",
+    "programming_score": 33,
+    "driver_score": 49,
+    "total_score": 82
+  },
+  {
+    "team_number": 158055,
+    "team_name": "1895B",
+    "event_name": "Roboticon 2025 (PWCS Invitational - HS Only)",
+    "programming_score": 0,
+    "driver_score": 7,
+    "total_score": 7
+  },
+  {
+    "team_number": 15001,
+    "team_name": "4343C",
+    "event_name": "Battle of the Bridge V5RC - High School Tournament",
+    "programming_score": 0,
+    "driver_score": 20,
+    "total_score": 20
+  },
+  {
+    "team_number": 51000,
+    "team_name": "6479B",
+    "event_name": "Roboticon 2025 (PWCS Invitational - HS Only)",
+    "programming_score": 0,
+    "driver_score": 3,
+    "total_score": 3
+  },
+  {
+    "team_number": 135883,
+    "team_name": "97265A",
+    "event_name": "25Jan V5RC High Stakes Tournament at Glen Allen High  (MS/HS)",
+    "programming_score": 0,
+    "driver_score": 5,
+    "total_score": 5
+  },
+  {
+    "team_number": 131952,
+    "team_name": "13150B",
+    "event_name": "Battle of the Bridge V5RC - High School Tournament",
+    "programming_score": 0,
+    "driver_score": 13,
+    "total_score": 13
+  },
+  {
+    "team_number": 138962,
+    "team_name": "13150C",
+    "event_name": "Roboticon 2025 (PWCS Invitational - HS Only)",
+    "programming_score": 3,
+    "driver_score": 13,
+    "total_score": 16
+  },
+  {
+    "team_number": 176437,
+    "team_name": "60023X",
+    "event_name": "Roboticon 2025 (PWCS Invitational - HS Only)",
+    "programming_score": 0,
+    "driver_score": 21,
+    "total_score": 21
+  },
+  {
+    "team_number": 4091,
+    "team_name": "12B",
+    "event_name": "Gateway to the West VEX V5 Robotics Competition Signature Event",
+    "programming_score": 0,
+    "driver_score": 26,
+    "total_score": 26
+  },
+  {
+    "team_number": 26683,
+    "team_name": "12X",
+    "event_name": "All Saints Skills Tournament (1:30 PM - 3:30 PM)",
+    "programming_score": 8,
+    "driver_score": 41,
+    "total_score": 49
+  },
+  {
+    "team_number": 54327,
+    "team_name": "9121B",
+    "event_name": "VT CRO-Down • High Stakes • V5RC • High/Middle School",
+    "programming_score": 0,
+    "driver_score": 15,
+    "total_score": 15
+  },
+  {
+    "team_number": 160911,
+    "team_name": "13150E",
+    "event_name": "Roboticon 2025 (PWCS Invitational - HS Only)",
+    "programming_score": 8,
+    "driver_score": 32,
+    "total_score": 40
+  },
+  {
+    "team_number": 178023,
+    "team_name": "22192X",
+    "event_name": "Battle of the Bridge V5RC - High School Tournament",
+    "programming_score": 0,
+    "driver_score": 28,
+    "total_score": 28
+  },
+  {
+    "team_number": 76817,
+    "team_name": "63975A",
+    "event_name": "01Feb V5RC High Stakes Tournament at Huguenot High  (MS/HS)",
+    "programming_score": 0,
+    "driver_score": 26,
+    "total_score": 26
+  },
+  {
+    "team_number": 117062,
+    "team_name": "63975D",
+    "event_name": "Bots @ Bristol VEX V5 Robotics Competition Signature Event",
+    "programming_score": 44,
+    "driver_score": 59,
+    "total_score": 103
+  },
+  {
+    "team_number": 119695,
+    "team_name": "42075A",
+    "event_name": "VT CRO-Down • High Stakes • V5RC • High/Middle School",
+    "programming_score": 0,
+    "driver_score": 16,
+    "total_score": 16
+  },
+  {
+    "team_number": 119698,
+    "team_name": "42075D",
+    "event_name": "25Jan V5RC High Stakes Tournament at Glen Allen High  (MS/HS)",
+    "programming_score": 0,
+    "driver_score": 8,
+    "total_score": 8
+  },
+  {
+    "team_number": 88963,
+    "team_name": "2068B",
+    "event_name": "All Saints Skills Tournament (1:30 PM - 3:30 PM)",
+    "programming_score": 28,
+    "driver_score": 44,
+    "total_score": 72
+  },
+  {
+    "team_number": 179542,
+    "team_name": "23430Z",
+    "event_name": "01Feb V5RC High Stakes Tournament at Huguenot High  (MS/HS)",
+    "programming_score": 4,
+    "driver_score": 25,
+    "total_score": 29
+  },
+  {
+    "team_number": 181238,
+    "team_name": "6975J",
+    "event_name": "JROTC Live Remote Skills February event #1",
+    "programming_score": 0,
+    "driver_score": 23,
+    "total_score": 23
+  },
+  {
+    "team_number": 181972,
+    "team_name": "96639B",
+    "event_name": "01Feb V5RC High Stakes Tournament at Huguenot High  (MS/HS)",
+    "programming_score": 0,
+    "driver_score": 15,
+    "total_score": 15
+  }
+]
