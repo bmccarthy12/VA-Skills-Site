@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+# Skills List (Updated through lambda function)
+
+
 # testing
 /coverage
 
@@ -50,3 +53,7 @@ Thumbs.db
 *.ntvs*
 *.njsproj
 *.sln
+build/skills_list.json
+public/skills_list.json
+public/skills_list.json
+build/skills_list.json

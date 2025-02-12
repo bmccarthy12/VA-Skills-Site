@@ -87,7 +87,7 @@ const TeamsTable = () => {
                 <span className="green-highlight">Green highlight</span>: "Already Qualified" and 
                 <span className="yellow-highlight">Yellow highlight</span>: "Will Qualify if Season Ends Today"
             </p>
-            <p className="disclaimer">Results are unofficial and no guarantee is offered</p>
+            <p className="disclaimer">Results are unofficial and no guarantee of accuracy; Tie-Breakers not calculated</p>
             <div className="table-container">
                 <table>
                     <colgroup>
@@ -99,9 +99,9 @@ const TeamsTable = () => {
                     <thead>
                         <tr>
                             <th>Rank</th>
+                            <th>Total Score</th>
                             <th>Programming Score</th>
                             <th>Driver Score</th>
-                            <th>Total Score</th>
                             <th>Team Number</th>
                             <th>Team Name</th>
                         </tr>
@@ -110,9 +110,9 @@ const TeamsTable = () => {
                         {teams.map((team) => (
                             <tr key={team.team_number} className={team.highlight}>
                                 <td>{team.rank}</td>
+                                <td>{team.total_score}</td>
                                 <td>{team.programming_score}</td>
                                 <td>{team.driver_score}</td>
-                                <td>{team.total_score}</td>
                                 <td>{team.team_number}</td>
                                 <td>{team.team_name}</td>
                             </tr>
