@@ -32,7 +32,8 @@ def get_skills_data():
             skills_response.raise_for_status()
             skills_data = skills_response.json().get("data", [])
 
-            event_scores = {}  # Track best scores per event
+            event_scores = {}  # Dictionary to track the best scores for each event
+            highest_auto = 0   # Variable to track the highest programming skills score
 
             for entry in skills_data:
                 event_id = entry["event"]["id"]
@@ -47,11 +48,12 @@ def get_skills_data():
                         "driver_score": 0,
                         "total_score": 0,
                         "team_number": team_number,
-                        "team_name": team_name
+                        "team_name": team_name,
                     }
 
                 if entry["type"] == "programming":
                     event_scores[event_id]["programming_score"] = max(event_scores[event_id]["programming_score"], score)
+                    highest_auto = max(highest_auto, score)
                 elif entry["type"] == "driver":
                     event_scores[event_id]["driver_score"] = max(event_scores[event_id]["driver_score"], score)
 
@@ -69,7 +71,8 @@ def get_skills_data():
                     "event_name": best_event["event_name"],
                     "programming_score": best_event["programming_score"],
                     "driver_score": best_event["driver_score"],
-                    "total_score": best_event["total_score"]
+                    "total_score": best_event["total_score"],
+                    "highest_auto": highest_auto
                 })
 
         return all_teams_data

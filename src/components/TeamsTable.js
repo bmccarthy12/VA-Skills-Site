@@ -44,12 +44,18 @@ const TeamsTable = () => {
                         programming_score: skill.programming_score,
                         driver_score: skill.driver_score,
                         total_score: skill.total_score,
+                        highest_auto: skill.highest_auto,
                         highlight: isQualified ? "green" : "" // Apply green highlight if qualified
                     };
                 });
 
                 // Sort teams by total score (highest to lowest)
-                mergedData.sort((a, b) => b.total_score - a.total_score);
+                mergedData.sort((a, b) => {
+                    if (b.total_score === a.total_score) {
+                        return b.highest_auto - a.highest_auto;
+                    }
+                    return b.total_score - a.total_score;
+                });
 
                 // Assign ranks after sorting
                 mergedData.forEach((team, index) => {
