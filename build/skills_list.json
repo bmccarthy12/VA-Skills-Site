@@ -1,0 +1,975 @@
+[
+  {
+    "team_number": 121849,
+    "team_name": "62961X",
+    "auton_skills": 39,
+    "driver_skills": 54,
+    "total_score": 93
+  },
+  {
+    "team_number": 46465,
+    "team_name": "6603A",
+    "auton_skills": 18,
+    "driver_skills": 37,
+    "total_score": 55
+  },
+  {
+    "team_number": 46468,
+    "team_name": "6603B",
+    "auton_skills": 0,
+    "driver_skills": 20,
+    "total_score": 20
+  },
+  {
+    "team_number": 46471,
+    "team_name": "6603C",
+    "auton_skills": 0,
+    "driver_skills": 23,
+    "total_score": 23
+  },
+  {
+    "team_number": 98485,
+    "team_name": "6603T",
+    "auton_skills": 0,
+    "driver_skills": 20,
+    "total_score": 20
+  },
+  {
+    "team_number": 154568,
+    "team_name": "2072X",
+    "auton_skills": 23,
+    "driver_skills": 51,
+    "total_score": 74
+  },
+  {
+    "team_number": 169590,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 169669,
+    "team_name": "54045Z",
+    "auton_skills": 14,
+    "driver_skills": 37,
+    "total_score": 51
+  },
+  {
+    "team_number": 110896,
+    "team_name": "80708Y",
+    "auton_skills": 47,
+    "driver_skills": 59,
+    "total_score": 106
+  },
+  {
+    "team_number": 169750,
+    "team_name": "2072C",
+    "auton_skills": 25,
+    "driver_skills": 50,
+    "total_score": 75
+  },
+  {
+    "team_number": 169751,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 133474,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 169776,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 78132,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 78134,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 79175,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 107040,
+    "team_name": "99909A",
+    "auton_skills": 23,
+    "driver_skills": 43,
+    "total_score": 66
+  },
+  {
+    "team_number": 138841,
+    "team_name": "50878X",
+    "auton_skills": 28,
+    "driver_skills": 36,
+    "total_score": 64
+  },
+  {
+    "team_number": 109693,
+    "team_name": "2145Z",
+    "auton_skills": 47,
+    "driver_skills": 56,
+    "total_score": 103
+  },
+  {
+    "team_number": 102975,
+    "team_name": "99157B",
+    "auton_skills": 17,
+    "driver_skills": 44,
+    "total_score": 61
+  },
+  {
+    "team_number": 154029,
+    "team_name": "50805H",
+    "auton_skills": 26,
+    "driver_skills": 47,
+    "total_score": 73
+  },
+  {
+    "team_number": 170054,
+    "team_name": "50805A",
+    "auton_skills": 0,
+    "driver_skills": 24,
+    "total_score": 24
+  },
+  {
+    "team_number": 170204,
+    "team_name": "2072U",
+    "auton_skills": 3,
+    "driver_skills": 30,
+    "total_score": 33
+  },
+  {
+    "team_number": 170205,
+    "team_name": "2072A",
+    "auton_skills": 42,
+    "driver_skills": 50,
+    "total_score": 92
+  },
+  {
+    "team_number": 141212,
+    "team_name": "80208K",
+    "auton_skills": 34,
+    "driver_skills": 44,
+    "total_score": 78
+  },
+  {
+    "team_number": 157577,
+    "team_name": "2509A",
+    "auton_skills": 31,
+    "driver_skills": 50,
+    "total_score": 81
+  },
+  {
+    "team_number": 111660,
+    "team_name": "20164J",
+    "auton_skills": 0,
+    "driver_skills": 23,
+    "total_score": 23
+  },
+  {
+    "team_number": 131366,
+    "team_name": "20164M",
+    "auton_skills": 0,
+    "driver_skills": 28,
+    "total_score": 28
+  },
+  {
+    "team_number": 74175,
+    "team_name": "20164T",
+    "auton_skills": 18,
+    "driver_skills": 47,
+    "total_score": 65
+  },
+  {
+    "team_number": 101992,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 161029,
+    "team_name": "20164V",
+    "auton_skills": 0,
+    "driver_skills": 10,
+    "total_score": 10
+  },
+  {
+    "team_number": 74174,
+    "team_name": "20164W",
+    "auton_skills": 14,
+    "driver_skills": 23,
+    "total_score": 37
+  },
+  {
+    "team_number": 74173,
+    "team_name": "20164X",
+    "auton_skills": 17,
+    "driver_skills": 27,
+    "total_score": 44
+  },
+  {
+    "team_number": 74172,
+    "team_name": "20164Z",
+    "auton_skills": 0,
+    "driver_skills": 23,
+    "total_score": 23
+  },
+  {
+    "team_number": 170287,
+    "team_name": "20164B",
+    "auton_skills": 10,
+    "driver_skills": 42,
+    "total_score": 52
+  },
+  {
+    "team_number": 26932,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 28438,
+    "team_name": "4303B",
+    "auton_skills": 3,
+    "driver_skills": 35,
+    "total_score": 38
+  },
+  {
+    "team_number": 28441,
+    "team_name": "4303C",
+    "auton_skills": 0,
+    "driver_skills": 23,
+    "total_score": 23
+  },
+  {
+    "team_number": 40945,
+    "team_name": "4303D",
+    "auton_skills": 3,
+    "driver_skills": 32,
+    "total_score": 35
+  },
+  {
+    "team_number": 64868,
+    "team_name": "4303X",
+    "auton_skills": 0,
+    "driver_skills": 21,
+    "total_score": 21
+  },
+  {
+    "team_number": 140967,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 4086,
+    "team_name": "12A",
+    "auton_skills": 15,
+    "driver_skills": 38,
+    "total_score": 53
+  },
+  {
+    "team_number": 4096,
+    "team_name": "12C",
+    "auton_skills": 36,
+    "driver_skills": 47,
+    "total_score": 83
+  },
+  {
+    "team_number": 4101,
+    "team_name": "12D",
+    "auton_skills": 31,
+    "driver_skills": 48,
+    "total_score": 79
+  },
+  {
+    "team_number": 4106,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 4116,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 26686,
+    "team_name": "12Y",
+    "auton_skills": 11,
+    "driver_skills": 39,
+    "total_score": 50
+  },
+  {
+    "team_number": 26689,
+    "team_name": "12Z",
+    "auton_skills": 29,
+    "driver_skills": 37,
+    "total_score": 66
+  },
+  {
+    "team_number": 139683,
+    "team_name": "46V",
+    "auton_skills": 24,
+    "driver_skills": 36,
+    "total_score": 60
+  },
+  {
+    "team_number": 172076,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 172727,
+    "team_name": "70220A",
+    "auton_skills": 25,
+    "driver_skills": 33,
+    "total_score": 58
+  },
+  {
+    "team_number": 172967,
+    "team_name": "23301A",
+    "auton_skills": 0,
+    "driver_skills": 20,
+    "total_score": 20
+  },
+  {
+    "team_number": 172968,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 173024,
+    "team_name": "52427K",
+    "auton_skills": 8,
+    "driver_skills": 30,
+    "total_score": 38
+  },
+  {
+    "team_number": 136488,
+    "team_name": "71999A",
+    "auton_skills": 15,
+    "driver_skills": 47,
+    "total_score": 62
+  },
+  {
+    "team_number": 17032,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 17035,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 83827,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 3441,
+    "team_name": "154A",
+    "auton_skills": 0,
+    "driver_skills": 19,
+    "total_score": 19
+  },
+  {
+    "team_number": 25570,
+    "team_name": "154B",
+    "auton_skills": 0,
+    "driver_skills": 10,
+    "total_score": 10
+  },
+  {
+    "team_number": 27013,
+    "team_name": "154C",
+    "auton_skills": 0,
+    "driver_skills": 12,
+    "total_score": 12
+  },
+  {
+    "team_number": 35863,
+    "team_name": "154D",
+    "auton_skills": 23,
+    "driver_skills": 49,
+    "total_score": 72
+  },
+  {
+    "team_number": 14704,
+    "team_name": "1575B",
+    "auton_skills": 13,
+    "driver_skills": 35,
+    "total_score": 48
+  },
+  {
+    "team_number": 157067,
+    "team_name": "1575K",
+    "auton_skills": 17,
+    "driver_skills": 40,
+    "total_score": 57
+  },
+  {
+    "team_number": 81691,
+    "team_name": "1575M",
+    "auton_skills": 12,
+    "driver_skills": 33,
+    "total_score": 45
+  },
+  {
+    "team_number": 49878,
+    "team_name": "1575W",
+    "auton_skills": 27,
+    "driver_skills": 52,
+    "total_score": 79
+  },
+  {
+    "team_number": 157068,
+    "team_name": "1575T",
+    "auton_skills": 0,
+    "driver_skills": 23,
+    "total_score": 23
+  },
+  {
+    "team_number": 130499,
+    "team_name": "1575Y",
+    "auton_skills": 5,
+    "driver_skills": 30,
+    "total_score": 35
+  },
+  {
+    "team_number": 56191,
+    "team_name": "1575X",
+    "auton_skills": 26,
+    "driver_skills": 47,
+    "total_score": 73
+  },
+  {
+    "team_number": 39544,
+    "team_name": "46B",
+    "auton_skills": 40,
+    "driver_skills": 50,
+    "total_score": 90
+  },
+  {
+    "team_number": 173800,
+    "team_name": "46N",
+    "auton_skills": 18,
+    "driver_skills": 34,
+    "total_score": 52
+  },
+  {
+    "team_number": 50999,
+    "team_name": "6479A",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 36862,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 155640,
+    "team_name": "2872X",
+    "auton_skills": 33,
+    "driver_skills": 49,
+    "total_score": 82
+  },
+  {
+    "team_number": 158054,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 158055,
+    "team_name": "1895B",
+    "auton_skills": 0,
+    "driver_skills": 7,
+    "total_score": 7
+  },
+  {
+    "team_number": 15001,
+    "team_name": "4343C",
+    "auton_skills": 0,
+    "driver_skills": 20,
+    "total_score": 20
+  },
+  {
+    "team_number": 14998,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 51000,
+    "team_name": "6479B",
+    "auton_skills": 0,
+    "driver_skills": 3,
+    "total_score": 3
+  },
+  {
+    "team_number": 158051,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 175524,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 53190,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 53222,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 43639,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 176155,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 46474,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 98329,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 135883,
+    "team_name": "97265A",
+    "auton_skills": 0,
+    "driver_skills": 5,
+    "total_score": 5
+  },
+  {
+    "team_number": 131943,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 131952,
+    "team_name": "13150B",
+    "auton_skills": 0,
+    "driver_skills": 13,
+    "total_score": 13
+  },
+  {
+    "team_number": 138962,
+    "team_name": "13150C",
+    "auton_skills": 3,
+    "driver_skills": 15,
+    "total_score": 18
+  },
+  {
+    "team_number": 176437,
+    "team_name": "60023X",
+    "auton_skills": 0,
+    "driver_skills": 21,
+    "total_score": 21
+  },
+  {
+    "team_number": 176442,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 107622,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 176492,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 4091,
+    "team_name": "12B",
+    "auton_skills": 0,
+    "driver_skills": 26,
+    "total_score": 26
+  },
+  {
+    "team_number": 4111,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 26668,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 26683,
+    "team_name": "12X",
+    "auton_skills": 12,
+    "driver_skills": 41,
+    "total_score": 53
+  },
+  {
+    "team_number": 54326,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 54327,
+    "team_name": "9121B",
+    "auton_skills": 0,
+    "driver_skills": 15,
+    "total_score": 15
+  },
+  {
+    "team_number": 160910,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 160911,
+    "team_name": "13150E",
+    "auton_skills": 8,
+    "driver_skills": 32,
+    "total_score": 40
+  },
+  {
+    "team_number": 67311,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 140834,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 63681,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 168065,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 177857,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 146827,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 178023,
+    "team_name": "22192X",
+    "auton_skills": 0,
+    "driver_skills": 28,
+    "total_score": 28
+  },
+  {
+    "team_number": 178024,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 146829,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 178463,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 76817,
+    "team_name": "63975A",
+    "auton_skills": 0,
+    "driver_skills": 26,
+    "total_score": 26
+  },
+  {
+    "team_number": 76818,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 117062,
+    "team_name": "63975D",
+    "auton_skills": 50,
+    "driver_skills": 59,
+    "total_score": 109
+  },
+  {
+    "team_number": 43747,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 66423,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 119695,
+    "team_name": "42075A",
+    "auton_skills": 0,
+    "driver_skills": 16,
+    "total_score": 16
+  },
+  {
+    "team_number": 119696,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 119697,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 119698,
+    "team_name": "42075D",
+    "auton_skills": 0,
+    "driver_skills": 8,
+    "total_score": 8
+  },
+  {
+    "team_number": 4166,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 88963,
+    "team_name": "2068B",
+    "auton_skills": 28,
+    "driver_skills": 47,
+    "total_score": 75
+  },
+  {
+    "team_number": 179542,
+    "team_name": "23430Z",
+    "auton_skills": 4,
+    "driver_skills": 25,
+    "total_score": 29
+  },
+  {
+    "team_number": 5666,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 179867,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 180039,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 161426,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 115412,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 164326,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 181238,
+    "team_name": "6975J",
+    "auton_skills": 0,
+    "driver_skills": 23,
+    "total_score": 23
+  },
+  {
+    "team_number": 156054,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 181972,
+    "team_name": "96639B",
+    "auton_skills": 0,
+    "driver_skills": 15,
+    "total_score": 15
+  },
+  {
+    "team_number": 182377,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 48711,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 78014,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 76876,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  },
+  {
+    "team_number": 161908,
+    "team_name": "null",
+    "auton_skills": 0,
+    "driver_skills": 0,
+    "total_score": 0
+  }
+]
