@@ -52,6 +52,9 @@ const TeamsTable = () => {
                 // Sort teams by total score (highest to lowest)
                 mergedData.sort((a, b) => {
                     if (b.total_score === a.total_score) {
+                        if (b.highest_auto === a.highest_auto) {
+                            return b.driver_score - a.driver_score;
+                        }
                         return b.highest_auto - a.highest_auto;
                     }
                     return b.total_score - a.total_score;

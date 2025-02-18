@@ -34,6 +34,7 @@ def get_skills_data():
 
             event_scores = {}  # Dictionary to track the best scores for each event
             highest_auto = 0   # Variable to track the highest programming skills score
+            highest_driver = 0   # Variable to track the highest programming skills score
 
             for entry in skills_data:
                 event_id = entry["event"]["id"]
@@ -56,9 +57,11 @@ def get_skills_data():
                     highest_auto = max(highest_auto, score)
                 elif entry["type"] == "driver":
                     event_scores[event_id]["driver_score"] = max(event_scores[event_id]["driver_score"], score)
+                    highest_driver = max(highest_driver, score)
 
                 event_scores[event_id]["total_score"] = (
                     event_scores[event_id]["programming_score"] + event_scores[event_id]["driver_score"]
+
                 )
 
             # Find the event with the highest total score
@@ -72,7 +75,8 @@ def get_skills_data():
                     "programming_score": best_event["programming_score"],
                     "driver_score": best_event["driver_score"],
                     "total_score": best_event["total_score"],
-                    "highest_auto": highest_auto
+                    "highest_auto": highest_auto,
+                    "highest_driver": highest_driver
                 })
 
         return all_teams_data

@@ -3,7 +3,7 @@ import json
 import time
 
 # Replace with your actual API key
-API_KEY = "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIzIiwianRpIjoiY2QxMGY4ODFjMThlOGI0Y2FlMTA3ODk4MmUyYThkMjU0OWZlNjljMzg5YWVhOWFkNWZkODFjYmFkMjcwZjM2NjE1NzJhZTY4YzRiNjFhODQiLCJpYXQiOjE3MzkxOTczMjQuODA5ODE5OSwibmJmIjoxNzM5MTk3MzI0LjgwOTgyMywiZXhwIjoyNjg1ODgyMTI0Ljc4ODkxNDIsInN1YiI6IjExNTkwMSIsInNjb3BlcyI6W119.Hl2qVTTc8CfNOpq8__OMV94Yl6VYHq3ebdpqUXksaEX73mC4XwhmHgYZlIipGxQ1zgFxxRIGXLzKt6Dwli6C-nroQ6esRrmeZB0XdYBUUguL5MclUr8CQnZ2qMTV4SMyaycjYUIiEh2KclNpWARBZ5py6X2EKySm4gVNS6dpkc_RFG-mBKdtJq-PNCG5k92wOEruvDLr7Hg-U_siWbg_JhSTG21yyTo5ms-Z-Q4JqEAJZpQvMRPTwBQQYKNz3pmb6DC5E7V-R4toHTiZOUsHOrvYmlV1Ls54P8uLnBxjc0FeXzmNmJfbsQcjRgrwu_viQZdjfP0zD4VtRxs5xdFNJufATUOWFo4jzD386QxrxtNNF1fnOnD872c4XOBY3TzCcvMjreF1TFX61s86O1PEkq2M0rczbQe_bZuvbpcyZrVGd--EzqDF-RxYOSgQmQhLhtExYn1_cIZuB-kd2KGlrtf5UcUHLXl0LqaUtRLg1jdZfwZvmhJ-PyPs_DYirs8J32FkALrlqDvpfu45k3Ygn6NVPTpa__D1f2Cwzr1QN6SqOYqzSnSbL0yn-YqjNdrEXlZpJQ4kp7WZ-GEOD_H0nozhfol20AV_zS-Aid2J90hU08Qy6Hwj7uA4huxzETtkA5vYbEfHAX_ORUqa1dGPs11PY8PhxrSvdIkf7rB4MR4"  # ***REPLACE WITH YOUR ACTUAL API KEY***
+API_KEY = "API KEY"  # ***REPLACE WITH YOUR ACTUAL API KEY***
 
 # Season ID - Replace with the correct season ID
 SEASON_ID = 190  # ***REPLACE WITH THE CORRECT SEASON ID***
@@ -36,6 +36,7 @@ def get_skills_data(team_list, output_filename="skills_data.json"):
 
             event_scores = {}  # Dictionary to track the best scores for each event
             highest_auto = 0   # Variable to track the highest programming skills score
+            highest_driver = 0  
 
             for entry in skills_data:
                 event_id = entry["event"]["id"]
@@ -58,7 +59,7 @@ def get_skills_data(team_list, output_filename="skills_data.json"):
                     highest_auto = max(highest_auto, score)
                 elif entry["type"] == "driver":
                     event_scores[event_id]["driver_score"] = max(event_scores[event_id]["driver_score"], score)
-
+                    highest_driver = max(highest_driver, score)
                 event_scores[event_id]["total_score"] = (
                     event_scores[event_id]["programming_score"] + event_scores[event_id]["driver_score"]
                 )
@@ -74,6 +75,8 @@ def get_skills_data(team_list, output_filename="skills_data.json"):
                     "programming_score": best_event["programming_score"],
                     "driver_score": best_event["driver_score"],
                     "total_score": best_event["total_score"],
+                    "highest_auto": highest_auto,
+                    "highest_driver": highest_driver
                 })
 
         with open(output_filename, "w", encoding="utf-8") as f:
